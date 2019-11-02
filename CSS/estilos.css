@@ -6,12 +6,12 @@ nav, .contenedor, footer,article, header, .principal, aside{
 }
 
 nav{
-    background-color: aqua;
+    background-color: rgb(253, 199, 49);
   	font-size: 33px;
 	
 }
 .contenedor{
-    background-color: blueviolet;
+    background-color: rgb(117, 252, 128);
 }
 footer{
     background-color: brown;
